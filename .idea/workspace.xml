@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f59942e-b529-49dc-bda0-6746f47f840f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/simple-todos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simple-todos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.idea/weather-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/.finished-upgraders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/.id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/platforms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/.meteor/versions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/client/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/client/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/client/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/imports/client/ui/body.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/imports/client/ui/body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/imports/client/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/server/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-app-back/tests/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/weather-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/.finished-upgraders" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/.id" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/platforms" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/release" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/main.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/api/links/links.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/api/links/methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/api/links/server/publications.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/api/links/server/publications.tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/both/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/client/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/client/routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/server/fixtures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/server/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/startup/server/register-api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/components/search/search.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/components/search/search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/components/weather/weather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/components/weather/weather.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/layouts/body/body.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/layouts/body/body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/pages/home/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/pages/home/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/pages/not-found/not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/pages/not-found/not-found.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imports/ui/stylesheets/not-found.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/private/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/404.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/bg-footer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab4/.idea/lab4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab3/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab3/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lab4/part2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../lab4/part2/app.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aD57ZZlVnV16Ro98Uzce4CCbtO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.cached" value="$PROJECT_DIR$/.meteor" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../simple-todos" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imports/startup/client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imports/startup/client" />
+      <recent name="$PROJECT_DIR$/imports/ui/components/search" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/client" />
+      <recent name="$PROJECT_DIR$/both" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Meteor.Run Meteor">
+    <configuration name="Run Meteor JavaScript" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="Run Meteor" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="/usr/bin/meteor" />
+      <option name="startBrowserSettings">
+        <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="meteor-app-runner" factoryName="Meteor">
+      <option name="exePath" value="/usr/bin/meteor" />
+      <option name="startBrowserSettings">
+        <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+      </option>
+      <meteor-runner-state>
+        <startBrowserSettings>
+          <browser start="true" with-js-debugger="true" url="http://localhost:3000" />
+        </startBrowserSettings>
+      </meteor-runner-state>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.Run Meteor JavaScript" />
+      <item itemvalue="Meteor.Run Meteor" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f59942e-b529-49dc-bda0-6746f47f840f" name="Default Changelist" comment="" />
+      <created>1586257156869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586257156869</updated>
+      <workItem from="1586257158176" duration="4869000" />
+      <workItem from="1586271615816" duration="6000" />
+      <workItem from="1586271623612" duration="222000" />
+      <workItem from="1586271846928" duration="7000" />
+      <workItem from="1586271866161" duration="310000" />
+      <workItem from="1586272186638" duration="54000" />
+      <workItem from="1586272248527" duration="243000" />
+      <workItem from="1586272500977" duration="11611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="113" key="#Configure_Path_Variables" timestamp="1586272534755">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="995" y="113" key="#Configure_Path_Variables/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586272534755" />
+    <state x="1005" y="113" key="#Plugins" timestamp="1586272489851">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1005" y="113" key="#Plugins/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586272489851" />
+    <state x="-5" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586269554155">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="-5" y="152" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1054@0.0.1920.1054" timestamp="1586269554155" />
+    <state x="1103" y="277" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586271630394">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1103" y="277" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586271630394" />
+    <state x="1161" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586278036410">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="1161" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586278036410" />
+    <state width="431" height="646" key="DebuggerActiveHint" timestamp="1586273970427">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="431" height="646" key="DebuggerActiveHint/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586273970427" />
+    <state x="977" y="266" key="EditFileWatcherDialog" timestamp="1586271937578">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="977" y="266" key="EditFileWatcherDialog/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586271937578" />
+    <state x="399" y="81" key="FileChooserDialogImpl" timestamp="1586284414913">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="399" y="81" key="FileChooserDialogImpl/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586284414913" />
+    <state x="261" y="252" key="FileChooserDialogImpl/0.0.1920.1054@0.0.1920.1054" timestamp="1586269229101" />
+    <state width="939" height="120" key="GridCell.Tab.0.bottom" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.0.bottom/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.0.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.0.center" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.0.center/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.0.center/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.0.left" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.0.left/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.0.left/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.0.right" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.0.right/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.0.right/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.1.bottom" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.1.bottom/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.1.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.1.center" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.1.center/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.1.center/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.1.left" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.1.left/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.1.left/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.1.right" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.1.right/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.1.right/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512172" />
+    <state width="939" height="120" key="GridCell.Tab.2.bottom" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.2.bottom/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.2.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512173" />
+    <state width="939" height="120" key="GridCell.Tab.2.center" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.2.center/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.2.center/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512173" />
+    <state width="939" height="120" key="GridCell.Tab.2.left" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.2.left/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.2.left/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512173" />
+    <state width="939" height="120" key="GridCell.Tab.2.right" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.2.right/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.2.right/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512173" />
+    <state width="939" height="120" key="GridCell.Tab.3.bottom" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.3.bottom/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.3.bottom/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512122" />
+    <state width="939" height="120" key="GridCell.Tab.3.center" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.3.center/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.3.center/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512122" />
+    <state width="939" height="120" key="GridCell.Tab.3.left" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.3.left/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.3.left/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512121" />
+    <state width="939" height="120" key="GridCell.Tab.3.right" timestamp="1586285002507">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state width="939" height="120" key="GridCell.Tab.3.right/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586285002507" />
+    <state width="939" height="466" key="GridCell.Tab.3.right/0.0.1920.1054@0.0.1920.1054" timestamp="1586271512122" />
+    <state x="924" y="-13" key="SettingsEditor" timestamp="1586272568165">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="924" y="-13" key="SettingsEditor/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586272568165" />
+    <state x="623" y="215" width="672" height="678" key="search.everywhere.popup" timestamp="1586284129219">
+      <screen x="0" y="0" width="1920" height="1054" />
+    </state>
+    <state x="623" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1920.1054/0.0.1920.1054@0.0.1920.1054" timestamp="1586284129219" />
+    <state x="623" y="215" width="672" height="678" key="search.everywhere.popup/0.0.1920.1054@0.0.1920.1054" timestamp="1586271419461" />
+  </component>
+</project>
