@@ -26,11 +26,4 @@ function getCurrentWeather(location, callback, format = "json") {
     HTTP.get(url, callback);
 }
 
-function onGetCurrentWeather(error, result) {
-    if (error) {
-        console.log("Error: " + error);
-    } else {
-        console.log(result);
-    }
-}
 
