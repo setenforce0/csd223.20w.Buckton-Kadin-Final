@@ -12,7 +12,7 @@ Template.search.events({
 
         getCurrentWeather(text, function (e, r) {
             console.log(r);
-            instance.data.weatherResponseSet.set(r.data.response.ob.tempC);
+            instance.data.weatherResponseSet.set(r.data.response.ob);
         });
     },
 });

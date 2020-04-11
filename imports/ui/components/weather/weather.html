@@ -1,6 +1,12 @@
 <template name="weather">
     <p id="weatherresponsedata">
-        {{weatherResponseData}} °C
+        Temperature: {{weatherResponseData.tempC}} °C
+        (Wind Chill: {{weatherResponseData.windchillC}} °C)  <br>
+        Humidity: {{weatherResponseData.humidity}}           <br>
+        Wind: {{weatherResponseData.windKPH}} KPH            <br>
+        Weather: {{weatherResponseData.weather}}             <br>
+        Dew Point: {{weatherResponseData.dewpointC}} °C      <br>
+        Precipitation: {{weatherResponseData.precipMM}} mm   <br>
     </p>
 
 </template>
