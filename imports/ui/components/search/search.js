@@ -15,6 +15,15 @@ Template.search.events({
             instance.data.weatherResponseSet.set(r.data.response.ob);
         });
     },
+    'click #show-hide-map'(event, instance) {
+        event.preventDefault();
+        let map = $('.map-container');
+        if (map.is(":visible")) {
+            map.hide(800);
+        } else {
+            map.show(800);
+        }
+    }
 });
 
 // Access Key: EXcFoaiwzFzhsPKIASKxi

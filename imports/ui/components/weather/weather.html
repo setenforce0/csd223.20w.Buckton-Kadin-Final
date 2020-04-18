@@ -1,4 +1,9 @@
 <template name="weather">
+
+    <div class="map-container">
+    {{> googleMap name="locationMap" options=locationMapOptions}}
+    </div>
+
     <p id="weatherresponsedata">
         Temperature: {{weatherResponseData.tempC}} °C
         (Wind Chill: {{weatherResponseData.windchillC}} °C)  <br>
